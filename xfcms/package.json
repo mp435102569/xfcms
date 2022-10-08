@@ -1,0 +1,29 @@
+{
+  "name": "xfcms",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.4",
+    "axios": "^0.27.2",
+    "blueimp-md5": "^2.19.0",
+    "echarts": "^5.3.3",
+    "element-plus": "^2.2.5",
+    "less": "^4.1.3",
+    "md5": "^2.3.0",
+    "qs": "^6.10.5",
+    "vue": "^3.2.25",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^4.0.16",
+    "vuex": "^4.0.2",
+    "wangeditor": "^4.7.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
